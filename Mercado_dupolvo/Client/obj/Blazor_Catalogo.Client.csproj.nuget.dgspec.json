@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucca\\Desktop\\Mercado_dupolvo\\Mercado_dupolvo\\Client\\Mercado_dupolvo.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucca\\Desktop\\Mercado_dupolvo\\Mercado_dupolvo\\Client\\Mercado_dupolvo.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucca\\Desktop\\Mercado_dupolvo\\Mercado_dupolvo\\Client\\Mercado_dupolvo.Client.csproj",
+        "projectName": "Mercado_dupolvo.Client",
+        "projectPath": "C:\\Users\\lucca\\Desktop\\Mercado_dupolvo\\Mercado_dupolvo\\Client\\Mercado_dupolvo.Client.csproj",
+        "packagesPath": "C:\\Users\\lucca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucca\\Desktop\\Mercado_dupolvo\\Mercado_dupolvo\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Arquivos de Programas x64\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\lucca\\Desktop\\Mercado_dupolvo\\Mercado_dupolvo\\Shared\\Mercado_dupolvo.Shared.csproj": {
+                "projectPath": "C:\\Users\\lucca\\Desktop\\Mercado_dupolvo\\Mercado_dupolvo\\Shared\\Mercado_dupolvo.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Blazor": {
+              "target": "Package",
+              "version": "[3.0.0-preview9.19465.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview9.19465.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview9.19465.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.HttpClient": {
+              "target": "Package",
+              "version": "[3.0.0-preview9.19465.2, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "W8lessLabs.Blazor.LocalFiles": {
+              "target": "Package",
+              "version": "[0.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucca\\Desktop\\Mercado_dupolvo\\Mercado_dupolvo\\Shared\\Mercado_dupolvo.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucca\\Desktop\\Mercado_dupolvo\\Mercado_dupolvo\\Shared\\Mercado_dupolvo.Shared.csproj",
+        "projectName": "Mercado_dupolvo.Shared",
+        "projectPath": "C:\\Users\\lucca\\Desktop\\Mercado_dupolvo\\Mercado_dupolvo\\Shared\\Mercado_dupolvo.Shared.csproj",
+        "packagesPath": "C:\\Users\\lucca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucca\\Desktop\\Mercado_dupolvo\\Mercado_dupolvo\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Arquivos de Programas x64\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

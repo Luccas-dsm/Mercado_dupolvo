@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ab630de-7f51-4557-80d7-c7e046f8e5a5": {
+      "ProjectGuid": "7ab630de-7f51-4557-80d7-c7e046f8e5a5",
+      "DisplayName": "Mercado_dupolvo.Client",
+      "ColorIndex": 0
+    },
+    "0e09bef1-d14d-4376-9909-fc8d36eda044": {
+      "ProjectGuid": "0e09bef1-d14d-4376-9909-fc8d36eda044",
+      "DisplayName": "Mercado_dupolvo.Server",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3a3effcb-ac55-48e6-bae6-f815fcc59179": {
+      "ProjectGuid": "3a3effcb-ac55-48e6-bae6-f815fcc59179",
+      "DisplayName": "Mercado_dupolvo.Shared",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,220 @@
+﻿body {
+    font-family: Montserrat;
+}
+
+/* inicio header*/
+
+header {
+    /* border:1px solid red;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 1em;
+    box-sizing: border-box;
+}
+
+.container {
+    /* border:1px solid red;*/
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1500px;
+    min-width: 414px;
+    flex-wrap: wrap;
+}
+
+/*.logo {
+    display: inline-block;
+}
+*/
+    .logo img {
+        width: 200px;
+    }
+
+.menu_usuario {
+    vertical-align: top;
+    display: inline-block;
+    width: 33vw;
+    height: 100%;
+    /*  border:1px solid rgb(225, 0, 255);*/
+}
+
+
+
+.categoria {
+    width: 80%;
+    max-width: 1500px;
+    min-width: 414px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /*   border:1px solid rgb(225, 0, 255);*/
+}
+
+    .categoria li {
+        margin: 1em;
+        display: inline-block;
+    }
+
+    .categoria a {
+        text-transform: uppercase;
+        font-size: 1.2em;
+        font-weight: medium;
+        color: #f28705;
+        text-decoration: none;
+        padding: 5px;
+    }
+
+        .categoria a:hover {
+            font-weight: bold;
+        }
+/*FIM HEADER*/
+
+/*INCIO CONTEUDO*/
+
+.conteudo {
+    margin: 0 auto;
+   
+}
+
+.publicidade {
+    display: inline-block;
+    height: 454px;
+    width: 100%;
+    background-image: url("../images/hortifrut.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: 6px 7px 23px rgb(97, 97, 97);
+}
+
+.principal {
+    width: 80%;
+    max-width: 1500px;
+    min-width: 414px;
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+
+.caixa {
+    margin: 0.6em 0;
+    width: 24vw;
+    min-width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: flex-end;
+    background-image: url("../images/padaria.jpg");
+    background-size: cover;
+}
+
+.legenda {
+    width: 100%;
+    height: 30%;
+    background-color: #03738c;
+    font-weight: medium;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .legenda a {
+        text-decoration: none;
+        color: white;
+        font-size: 1.5em;
+    }
+
+main a {
+    margin: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #9b9b9b
+}
+
+    main a:hover {
+        color: #013844;
+    }
+
+
+.dados {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .dados li {
+        display: inline-block;
+    }
+
+    .dados a {
+        margin: 10px;
+        text-transform: uppercase;
+        font-size: 1.2em;
+        font-weight: medium;
+        color: #f28705;
+        text-decoration: none;
+        padding: 5px;
+    }
+
+        .dados a:hover {
+            font-weight: bold;
+        }
+
+.pesquisa {
+    margin: 0 auto;
+}
+
+    .pesquisa > input {
+        width: 60%;
+    }
+
+/*FIM CONTEUDO*/
+/*INICIO RODAPE*/
+
+.social {
+    background-color: #f28705;
+    display: flex;
+    justify-content: center;
+}
+
+    .social li {
+        display: inline;
+        margin: 0 10px;
+    }
+
+    .social a img {
+        width: 50px;
+        height: 50px;
+    }
+
+.copy {
+    padding: 0.3em;
+    background-color: #03738c;
+    color: white;
+    text-align: center;
+}
+
+footer .logo img {
+    width: 150px
+}
+
+footer .container {
+    margin: 0 auto;
+    padding: 30px;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+/*FIM RODAPE*/
+.centralizar{
+    margin:0 auto;
+}

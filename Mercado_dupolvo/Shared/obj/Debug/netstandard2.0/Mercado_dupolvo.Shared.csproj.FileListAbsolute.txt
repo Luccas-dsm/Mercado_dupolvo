@@ -1,0 +1,10 @@
+C:\Users\lucca\Desktop\Mercado_dupolvo\Mercado_dupolvo\Shared\bin\Debug\netstandard2.0\Mercado_dupolvo.Shared.deps.json
+C:\Users\lucca\Desktop\Mercado_dupolvo\Mercado_dupolvo\Shared\bin\Debug\netstandard2.0\Mercado_dupolvo.Shared.dll
+C:\Users\lucca\Desktop\Mercado_dupolvo\Mercado_dupolvo\Shared\bin\Debug\netstandard2.0\Mercado_dupolvo.Shared.pdb
+C:\Users\lucca\Desktop\Mercado_dupolvo\Mercado_dupolvo\Shared\obj\Debug\netstandard2.0\Mercado_dupolvo.Shared.csproj.AssemblyReference.cache
+C:\Users\lucca\Desktop\Mercado_dupolvo\Mercado_dupolvo\Shared\obj\Debug\netstandard2.0\Mercado_dupolvo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\Desktop\Mercado_dupolvo\Mercado_dupolvo\Shared\obj\Debug\netstandard2.0\Mercado_dupolvo.Shared.AssemblyInfoInputs.cache
+C:\Users\lucca\Desktop\Mercado_dupolvo\Mercado_dupolvo\Shared\obj\Debug\netstandard2.0\Mercado_dupolvo.Shared.AssemblyInfo.cs
+C:\Users\lucca\Desktop\Mercado_dupolvo\Mercado_dupolvo\Shared\obj\Debug\netstandard2.0\Mercado_dupolvo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Desktop\Mercado_dupolvo\Mercado_dupolvo\Shared\obj\Debug\netstandard2.0\Mercado_dupolvo.Shared.dll
+C:\Users\lucca\Desktop\Mercado_dupolvo\Mercado_dupolvo\Shared\obj\Debug\netstandard2.0\Mercado_dupolvo.Shared.pdb

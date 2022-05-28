@@ -1,0 +1,101 @@
+﻿@page "/"
+@inject HttpClient http
+
+<div class="publicidade w-100" > </div> <!--PUBLICIDADE-->
+
+<div class="principal" >
+
+@if (produtos == null)
+    {
+        <p><em>Carregando...</em></p>
+    }
+    else if (produtos.Count == 0)
+    {
+        <p><em>Não existem produtos cadastrados...</em></p>
+    }
+    else
+    {
+        @foreach (var produto in produtos)
+        {
+                    <div class="col-sm-3 col-lg-3 col-md-3">
+                        <div class="card" style="border: none">
+                            <img src="data:image/jpge;base64,@produto.ImagemUrl" class="img-rounded"
+                         alt="@produto.Nome" width="180" height="180" />
+                            <div class="card-body">
+                                <h4 class="pull-right">@produto.Preco</h4>
+                                <h4 class="card-title">@produto.Nome</h4>
+                                <p class="card-text">@produto.Descricao</p>
+                                <a href="produto/detalhe/@produto.ProdutoId">Detalhes</a>
+                            </div>
+                        </div>
+                    </div>
+        }
+    }
+
+</div>
+
+@*<AuthorizeView>
+    <Authorized>
+    <h2>
+    Olá , @context.User.Identity.Name!
+    <br />
+    @if(@context.User.IsInRole("Admin"))
+    {
+    <text>Usuário Admin</text>
+    }
+    </h2>
+    </Authorized>
+    <NotAuthorized>
+    <h2>
+    Usuário não Autorizado
+    </h2>
+    </NotAuthorized>
+    </AuthorizeView>*@
+
+@code {
+
+
+
+
+    List<Mercado_dupolvo.Shared.Models.Produto> produtos { get; set; }
+    List<Mercado_dupolvo.Shared.Models.Categoria> categorias { get; set; }
+
+
+    [Parameter]
+    public int CategoriaId { get; set; }
+    private int codigoCategoria;
+
+    //protected override async Task OnParametersSetAsync()
+    //{     
+    //    categorias = await http.GetJsonAsync<List<Mercado_dupolvo.Shared.Models.Categoria>>("api/categoria/todas");
+    //    if (CategoriaId == 0)
+    //    {
+    //        codigoCategoria = categorias[0].CategoriaId;
+    //    }
+    //    else
+    //    {
+    //        codigoCategoria = CategoriaId;
+    //    }
+
+    //    await CarregaProdutos();
+    //}
+
+
+
+    protected override async void OnInitialized()
+    {
+        await CarregaProdutos();
+    }
+    async Task CarregaProdutos()
+    {
+        produtos =
+          await http.GetJsonAsync<List<Mercado_dupolvo.Shared.Models.Produto>>("/api/produto/todos");
+
+        StateHasChanged();
+    }
+
+
+
+
+}
+

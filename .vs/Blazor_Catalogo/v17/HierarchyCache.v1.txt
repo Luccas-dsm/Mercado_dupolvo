@@ -1,0 +1,308 @@
+﻿++Solution 'Mercado_dupolvo' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:Mercado_dupolvo.sln
+++Mercado_dupolvo.Server
+i:{00000000-0000-0000-0000-000000000000}:Mercado_dupolvo.Server
+++Connected Services 
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:>1118
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:>1119
+++Dependencies
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:>1117
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:>1116
+i:{3a3effcb-ac55-48e6-bae6-f815fcc59179}:>592
+++Properties
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\properties\
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\properties\
+++Context
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\context\
+++AppDbContext.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\context\appdbcontext.cs
+++Controllers
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\controllers\
+++AccountController.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\controllers\accountcontroller.cs
+++CategoriaController.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\controllers\categoriacontroller.cs
+++ProdutoController.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\controllers\produtocontroller.cs
+++Migrations
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\migrations\
+++Utils
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\utils\
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\utils\
+++HttpContextExtensions.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\utils\httpcontextextensions.cs
+++QueryableExtensions.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\utils\queryableextensions.cs
+++appsettings.json
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\appsettings.json
+++Program.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\program.cs
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\program.cs
+++Startup.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\startup.cs
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\startup.cs
+++No service dependencies discovered
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:>1120
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:>1121
+++Analyzers
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:analyzers
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:analyzers
+++Frameworks
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:frameworks
+++Packages
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:packages
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:packages
+i:{3a3effcb-ac55-48e6-bae6-f815fcc59179}:packages
+++Projects
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:projects
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:projects
+++launchSettings.json
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\properties\launchsettings.json
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\properties\launchsettings.json
+++20191128164435_Inicial.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\migrations\20191128164435_inicial.cs
+++20191128165854_AjusteImagemUrl.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\migrations\20191128165854_ajusteimagemurl.cs
+++20191207145947_identitySchema.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\migrations\20191207145947_identityschema.cs
+++20191211213525_CriaRoles.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\migrations\20191211213525_criaroles.cs
+++AppDbContextModelSnapshot.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\migrations\appdbcontextmodelsnapshot.cs
+++Microsoft.AspNetCore.Analyzers
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\.nuget\packages\microsoft.aspnetcore.components.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.3\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.3\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (3.0.0)
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:>1140
+++Microsoft.AspNetCore.Blazor.Server (3.0.0-preview9.19465.2)
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:>1137
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.0.0)
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:>1139
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (3.0.0)
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:>1138
+++Microsoft.EntityFrameworkCore.SqlServer (3.0.0)
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:>1136
+++Microsoft.EntityFrameworkCore.Tools (3.0.0)
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:>1141
+++Microsoft.Extensions.Logging.Debug (3.0.0)
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:>1143
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (3.0.0)
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:>1142
+++Mercado_dupolvo.Client
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\bin\debug\netstandard2.0\Mercado_dupolvo.client.dll
+i:{00000000-0000-0000-0000-000000000000}:Mercado_dupolvo.Client
+++Mercado_dupolvo.Shared
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\shared\bin\debug\netstandard2.0\Mercado_dupolvo.shared.dll
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\shared\bin\debug\netstandard2.0\Mercado_dupolvo.shared.dll
+i:{00000000-0000-0000-0000-000000000000}:Mercado_dupolvo.Shared
+++20191128164435_Inicial.Designer.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\migrations\20191128164435_inicial.designer.cs
+++20191128165854_AjusteImagemUrl.Designer.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\migrations\20191128165854_ajusteimagemurl.designer.cs
+++20191207145947_identitySchema.Designer.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\migrations\20191207145947_identityschema.designer.cs
+++20191211213525_CriaRoles.Designer.cs
+i:{0e09bef1-d14d-4376-9909-fc8d36eda044}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\server\migrations\20191211213525_criaroles.designer.cs
+++Microsoft.AspNetCore.Blazor (3.0.0-preview9.19465.2)
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:>1152
+++Microsoft.AspNetCore.Blazor.Build (3.0.0-preview9.19465.2)
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:>1151
+++Microsoft.AspNetCore.Blazor.DevServer (3.0.0-preview9.19465.2)
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:>1148
+++Microsoft.AspNetCore.Blazor.HttpClient (3.0.0-preview9.19465.2)
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:>1154
+++Microsoft.AspNetCore.Components.Authorization (3.0.0)
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:>1153
+++NETStandard.Library (2.0.3)
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:>1150
+i:{3a3effcb-ac55-48e6-bae6-f815fcc59179}:>1124
+++W8lessLabs.Blazor.LocalFiles (0.9.0)
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:>1149
+++wwwroot
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\
+++css
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\font\css\
+++bootstrap
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\bootstrap\
+++bootstrap.min.css
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\bootstrap\bootstrap.min.css
+++open-iconic
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\
+++font
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\font\
+++fonts
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\font\fonts\
+++FONT-LICENSE
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\readme.md
+++site.css
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\site.css
+++Style.css
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\style.css
+++images
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\images\
+++blazor1.jpg
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\images\blazor1.jpg
+++catalogo1.jpg
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\images\catalogo1.jpg
+++logo dupolvo.svg
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\images\logo dupolvo.svg
+++index.html
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\index.html
+++Auth
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\auth\
+++DemoAuthStateProvider.cs
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\auth\demoauthstateprovider.cs
+++IAuthorizeService.cs
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\auth\iauthorizeservice.cs
+++TokenAuthenticationProvider.cs
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\auth\tokenauthenticationprovider.cs
+++Banco de imagens
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\
+++Pages
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\
+++Autentica
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\autentica\
+++Login.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\autentica\login.razor
+++Logout.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\autentica\logout.razor
+++Register.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\autentica\register.razor
+++Catalogo
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\catalogo\
+++Detalhe.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\catalogo\detalhe.razor
+++Index.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\catalogo\index.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\categoria\index.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\produto\index.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\index.razor
+++Categoria
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\categoria\
+++CategoriaForm.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\categoria\categoriaform.razor
+++Create.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\categoria\create.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\produto\create.razor
+++Edit.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\categoria\edit.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\produto\edit.razor
+++Produto
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\produto\
+++ProdutoForm.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\produto\produtoform.razor
+++Backup.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\pages\backup.razor
+++Shared
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\shared\
+++Alerta.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\shared\alerta.razor
+++Aviso.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\shared\aviso.razor
+++Confirma.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\shared\confirma.razor
+++InputImagem.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\shared\inputimagem.razor
+++MainLayout.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\shared\mainlayout.razor
+++MenuAuthentication.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\shared\menuauthentication.razor
+++Navegacao.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\shared\navegacao.razor
+++NavMenu.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\shared\navmenu.razor
+++Paginacao.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\shared\paginacao.razor
+++IJSRuntimeExtensions.cs
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\utils\ijsruntimeextensions.cs
+++_Imports.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\_imports.razor
+++App.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\app.razor
+++bootstrap.min.css.map
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\bootstrap\bootstrap.min.css.map
+++open-iconic-bootstrap.min.css
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+++Carnes
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\carnes\
+++Acem.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\carnes\acem.png
+++cupim.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\carnes\cupim.png
+++paleta.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\carnes\paleta.png
+++peito.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\carnes\peito.png
+++pescoco.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\carnes\pescoco.png
+++picanha.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\carnes\picanha.png
+++Models
+i:{3a3effcb-ac55-48e6-bae6-f815fcc59179}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\shared\models\
+++Categoria.cs
+i:{3a3effcb-ac55-48e6-bae6-f815fcc59179}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\shared\models\categoria.cs
+++Produto.cs
+i:{3a3effcb-ac55-48e6-bae6-f815fcc59179}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\shared\models\produto.cs
+++UserInfo.cs
+i:{3a3effcb-ac55-48e6-bae6-f815fcc59179}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\shared\models\userinfo.cs
+++UserToken.cs
+i:{3a3effcb-ac55-48e6-bae6-f815fcc59179}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\shared\models\usertoken.cs
+++Recursos
+i:{3a3effcb-ac55-48e6-bae6-f815fcc59179}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\shared\recursos\
+++Paginacao.cs
+i:{3a3effcb-ac55-48e6-bae6-f815fcc59179}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\shared\recursos\paginacao.cs
+++System.ComponentModel.Annotations (4.6.0)
+i:{3a3effcb-ac55-48e6-bae6-f815fcc59179}:>1125
+++Rodape.razor
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\shared\rodape.razor
+++facebook.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\images\facebook.png
+++instagram.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\images\instagram.png
+++whatsapp.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\images\whatsapp.png
+++hortifrut.jpg
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\wwwroot\images\hortifrut.jpg
+++Mercearia
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\mercearia\
+++Feijão Kicaldo.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\mercearia\feijão kicaldo.png
+++Arroz Camil.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\mercearia\arroz camil.png
+++Miojo Nissim.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\mercearia\miojo nissim.png
+++Papel higienico.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\mercearia\papel higienico.png
+++Limpeza
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\limpeza\
+++Detergente ype.png
+i:{7ab630de-7f51-4557-80d7-c7e046f8e5a5}:c:\users\lucca\desktop\Mercado_dupolvo\Mercado_dupolvo\client\banco de imagens\limpeza\detergente ype.png

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mercado_dupolvo.Shared.Models.Categoria">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAEA=</HashCode>
+      <FileName>Models\Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mercado_dupolvo.Shared.Models.Produto">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAABAAAgAAAAAAAAAAAAAAAAAAAEAAEIAEA=</HashCode>
+      <FileName>Models\Produto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mercado_dupolvo.Shared.Models.UserInfo">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\UserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mercado_dupolvo.Shared.Models.UserToken">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAABAAA=</HashCode>
+      <FileName>Models\UserToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mercado_dupolvo.Shared.Recursos.Paginacao">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Recursos\Paginacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
